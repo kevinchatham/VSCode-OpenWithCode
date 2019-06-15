@@ -4,7 +4,7 @@ A very basic extension that adds an "Open in New Window" option when right-click
 
 [Grab the extension here!]()
 
-![](media/name-of-giphy.gif)
+![](https://github.com/kevinchatham/VSCode-OpenWithCode/blob/master/media/open.gif)
 
 ## Known Issues
 
