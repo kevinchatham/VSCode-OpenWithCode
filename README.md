@@ -16,4 +16,4 @@ A very basic extension that adds an "Open in New Window" option when right-click
 
 ## Version Log
 
-- 1.0 - Initial Release
+- 1.0.0 - Initial Release
