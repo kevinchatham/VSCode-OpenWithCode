@@ -1,8 +1,8 @@
 # Open With Code
 
-A very basic extension that adds an "Open in New Window" option when right-clicking on files or folders in the Explorer.
+[Grab the extension here!](https://marketplace.visualstudio.com/items?itemName=kevinchatham.openwithcode)
 
-[Grab the extension here!]()
+A very basic extension that adds an "Open in New Window" option when right-clicking on files or folders in the Explorer.
 
 ![](https://github.com/kevinchatham/VSCode-OpenWithCode/blob/master/media/open.gif)
 
