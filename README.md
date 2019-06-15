@@ -8,7 +8,7 @@ A very basic extension that adds an "Open in New Window" option when right-click
 
 ## Known Issues
 
-- Probably a better to open in new window. Suggestions are welcome. Currently launching from terminal with `code -n --folder-uri ${folderUri}`
+- Currently launching from terminal with `code -n --folder-uri ${folderUri}` and there is probably a better alternative. Suggestions are welcome!
 
 ## Release Notes
 
