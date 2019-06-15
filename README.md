@@ -4,7 +4,7 @@
 
 A very basic extension that adds an "Open in New Window" option when right-clicking on files or folders in the Explorer.
 
-![](https://github.com/kevinchatham/VSCode-OpenWithCode/blob/master/media/open.gif)
+![](https://github.com/kevinchatham/VSCode-OpenWithCode/raw/master/media/open.gif)
 
 ## Known Issues
 
