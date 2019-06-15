@@ -2,7 +2,7 @@
   "name": "openwithcode",
   "displayName": "OpenWithCode",
   "description": "VSCode extension which adds 'Open in New Window' option to the right-click context menu in the Explorer.",
-  "icon": "https://github.com/kevinchatham/VSCode-OpenWithCode/blob/master/media/icon.png",
+  "icon": "media/icon.png",
   "publisher": "kevinchatham",
   "repository": {
     "type": "git",
