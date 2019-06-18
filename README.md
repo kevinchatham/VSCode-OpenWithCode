@@ -1,6 +1,6 @@
 # Open With Code
 
-[Grab the extension here!](https://marketplace.visualstudio.com/items?itemName=kevinchatham.openwithcode)
+[Grab the extension here!](vscode:extension/kevinchatham.openwithcode)
 
 ![](https://github.com/kevinchatham/VSCode-OpenWithCode/raw/master/media/open.gif)
 
@@ -8,7 +8,7 @@ VSCode extension which adds an 'Open in New Window' option to the right-click co
 
 If using macOs, `code` must be manually registered in the system's path for this extension to work. You can do so by running this in terminal...
 
-```export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"```
+`export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"`
 
 ## Known Issues
 
