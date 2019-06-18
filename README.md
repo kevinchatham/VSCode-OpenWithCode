@@ -2,19 +2,20 @@
 
 [Grab the extension here!](https://marketplace.visualstudio.com/items?itemName=kevinchatham.openwithcode)
 
-A very basic extension that adds an "Open in New Window" option when right-clicking on files or folders in the Explorer.
-
 ![](https://github.com/kevinchatham/VSCode-OpenWithCode/raw/master/media/open.gif)
+
+VSCode extension which adds an 'Open in New Window' option to the right-click context menu in the Explorer.
+
+If using macOs, `code` must be manually registered in the system's path for this extension to work. You can do so by running this in terminal...
+
+```export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"```
 
 ## Known Issues
 
-- Currently launching from terminal with `code -n --folder-uri ${folderUri}` and there is probably a better alternative. Suggestions are welcome!
-
-## Release Notes
-
-- Untested on linux / mac.
+- The extension is currently launching a terminal and running `code -n --folder-uri ${folderUri}`. There is probably a better alternative so suggestions are welcome!
 
 ## Version Log
 
 - 1.0.0 - Initial Release
 - 1.0.1 - GIF Fixes
+- 1.0.2 - Readme / Name Corrections
