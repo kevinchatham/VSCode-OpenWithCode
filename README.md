@@ -19,3 +19,4 @@ If using macOs, `code` must be manually registered in the system's path for this
 - 1.0.0 - Initial Release
 - 1.0.1 - GIF Fixes
 - 1.0.2 - Readme / Name Corrections
+- 1.0.3 - Install Link Updated
