@@ -1,6 +1,6 @@
 # Open With Code
 
-[Grab the extension here!](vscode:extension/kevinchatham.openwithcode)
+[Grab it from the Marketplace](https://marketplace.visualstudio.com/items?itemName=kevinchatham.openwithcode)
 
 ![](https://github.com/kevinchatham/VSCode-OpenWithCode/raw/master/media/open.gif)
 
@@ -20,3 +20,4 @@ If using macOs, `code` must be manually registered in the system's path for this
 - 1.0.1 - GIF Fixes
 - 1.0.2 - Readme / Name Corrections
 - 1.0.3 - Install Link Updated
+- 1.0.4 - Install Link Updated
